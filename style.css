@@ -97,7 +97,7 @@ header p {
 }
 
 .button-group {
-    position: absolute;
+    position: fixed;
     bottom: 40px;
     left: 50%;
     transform: translateX(-50%);
@@ -124,7 +124,7 @@ header p {
 }
 
 .select-bar {
-    position: absolute;
+    position: fixed;
     bottom: 40px;
     left: 50%;
     transform: translateX(-50%);
@@ -149,7 +149,7 @@ header p {
 }
 
 .bg {
-    position: absolute;
+    position: fixed;
     height: 100vh;
     width: 100vw;
     top: 0;
@@ -183,8 +183,8 @@ header p {
 
 .bg img {
     position: absolute;
-    width: 1000px;
-    height: 1000px;
+    width: 900px;
+    height: 900px;
     z-index: 0;
 }
 
