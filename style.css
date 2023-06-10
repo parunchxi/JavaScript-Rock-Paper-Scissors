@@ -138,13 +138,13 @@ header p {
     transform: translateX(-50%);
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 20px;
 }
 
 .select-bar img {
     width: 150px;
     height: 150px;
     padding: 20px;
+    margin: 0 10px;
     border-radius: 50%;
     background-color: var(--button-color);
     cursor: pointer;
