@@ -9,28 +9,20 @@
     --primary-color: #FF8A65;
     --secondary-color: #FF7043;
     --bg: #F5F7F8;
-    --card-bg: #DBE2E5;
-    --input-bg: #ECEFF1;
     --primary-text-color: #263238;
     --secondary-text-color: #607D8B;
-    --button-color: #E7EBED;
-    --button-color-hover: #CFD8DC;
-    --operation-button-color: #DBE2E5;
-    --operation-button-color-hover: #C4CED4;
+    --button-color: #DBE2E5;
+    --button-color-hover: #C4CED4;
 }
 
 .dark-mode {
     --primary-color: #D95F39;
     --secondary-color: #FF7043;
     --bg: #13191C;
-    --card-bg: #1C252A;
-    --input-bg: #263238;
     --primary-text-color: #ECEFF1;
     --secondary-text-color: #90A4AE;
     --button-color: #29353B;
     --button-color-hover: #37474F;
-    --operation-button-color: #3E515A;
-    --operation-button-color-hover: #455A64;
 }
 
 ::selection {
