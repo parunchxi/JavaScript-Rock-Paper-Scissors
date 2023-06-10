@@ -1,10 +1,6 @@
-# Weather App (HTML,CSS,JavaScript)
+# Rock Paper Scissors (HTML,CSS,JavaScript)
 
-This Weather App has been developed using HTML, CSS, and Vanilla JavaScript.
-
-## Features
-- Show weather by searching.
-- Switch the theme from light to dark (or dark to light).
+A simple Rock Paper Scissors game that has been developed using HTML, CSS, and Vanilla JavaScript.
 
 ## Preview
 ![Preview](img/Preview.png)
